@@ -2,7 +2,7 @@
 
 A modern, minimalistic weather app with a beautiful **glassmorphic UI** that fetches real-time weather data using the OpenWeatherMap API.
 
-![Weather App Preview](https://raw.githubusercontent.com/KHALEDNOAMAN/weather/refs/heads/main/app.png?token=GHSAT0AAAAAADBHWRIIACM5VLM2ELXAO2M6Z7FNX6A)
+![Weather App Preview](https://raw.githubusercontent.com/KHALEDNOAMAN/weather/refs/heads/main/perview.png)
 
 ## 🚀 Features
 - 🌍 Search for any city worldwide
